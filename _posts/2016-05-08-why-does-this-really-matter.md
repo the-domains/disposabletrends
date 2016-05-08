@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-08T21:56:19.329Z'
-dateModified: '2016-05-08T21:55:52.660Z'
+datePublished: '2016-05-08T22:06:31.207Z'
+dateModified: '2016-05-08T21:56:23.769Z'
+title: Why does this really matter
+author: []
+sourcePath: _posts/2016-05-08-why-does-this-really-matter.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Why does this really matter
-author: []
 starred: false
-sourcePath: _posts/2016-05-08-why-does-this-really-matter.md
 url: why-does-this-really-matter/index.html
 _type: Article
 
