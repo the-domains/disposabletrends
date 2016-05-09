@@ -5,11 +5,11 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=4JYnKTNEAi8'
 inLanguage: null
 keywords: []
-description: "Donald Trump has a pretty outlandish idea for the Mexican Wall and he shows us all about it on the next Disposable Trends!! _________________________________________________________________ We go at it Right Wing and Left Wing style and you'll be rolling on the floor when you watch this episode!"
-datePublished: '2016-05-09T06:53:42.877Z'
-dateModified: '2016-05-09T06:53:42.612Z'
+description: ''
+datePublished: '2016-05-09T06:56:40.944Z'
+dateModified: '2016-05-09T06:56:40.650Z'
 author:
-  - name: Disposable Trends
+  - name: ''
     url: 'https://www.youtube.com/channel/UC8c9328FJq4PCq18tVgBpuA'
     avatar: {}
 related: []
