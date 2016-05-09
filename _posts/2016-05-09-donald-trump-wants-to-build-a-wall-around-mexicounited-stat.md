@@ -1,26 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=4JYnKTNEAi8'
+inLanguage: null
+keywords: []
+description: "Donald Trump has a pretty outlandish idea for the Mexican Wall and he shows us all about it on the next Disposable Trends!! _________________________________________________________________ We go at it Right Wing and Left Wing style and you'll be rolling on the floor when you watch this episode!"
+datePublished: '2016-05-09T06:53:42.877Z'
+dateModified: '2016-05-09T06:53:42.612Z'
 author:
   - name: Disposable Trends
     url: 'https://www.youtube.com/channel/UC8c9328FJq4PCq18tVgBpuA'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "Donald Trump has a pretty outlandish idea for the Mexican Wall and he shows us all about it on the next Disposable Trends!! _________________________________________________________________ We go at it Right Wing and Left Wing style and you'll be rolling on the floor when you watch this episode!"
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=4JYnKTNEAi8'
 title: 'Donald Trump wants to build a wall around Mexico/United States border!!!'
-datePublished: '2016-05-09T06:53:15.157Z'
-dateModified: '2016-05-09T06:52:42.509Z'
-starred: false
 sourcePath: _posts/2016-05-09-donald-trump-wants-to-build-a-wall-around-mexicounited-stat.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
