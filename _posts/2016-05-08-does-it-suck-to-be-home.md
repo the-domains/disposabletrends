@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "When he left there was only the reality start Trump but now it's President Trump."
-datePublished: '2016-05-09T06:33:37.214Z'
-dateModified: '2016-05-09T06:33:35.082Z'
+datePublished: '2016-05-09T06:43:28.268Z'
+dateModified: '2016-05-09T06:36:45.098Z'
 title: Does it suck to be home?
 author: []
 sourcePath: _posts/2016-05-08-does-it-suck-to-be-home.md
@@ -24,7 +24,7 @@ _type: Article
 # Does it suck to be home?
 
 ## Probably
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56e52975-86c2-4ee0-84ed-b21bbfdbec97.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5888884b61922d02e9e2ca5b5e030b9df63d516.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3582699-de17-4e95-9971-e24ee619dfa3.png)
 
 When he left there was only the reality start Trump but now it's President Trump.
