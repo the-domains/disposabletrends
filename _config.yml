@@ -23,6 +23,6 @@ color:
     - '#958892'
   brandStrength: 0.1875
   lightness: 0.5
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
